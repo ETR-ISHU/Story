@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-I am from Earth.
-=======
 I am from mars
->>>>>>> alien-plot
